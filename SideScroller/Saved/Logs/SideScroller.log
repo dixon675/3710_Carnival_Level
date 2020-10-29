@@ -4861,3 +4861,39 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.10.29-22.34.43:559][402]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B08ADAF44-438B-7D96-0FBD-1EBF2660D31F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.3-13942748%2B%2B%2BUE4%2BRelease-4.25&UserID=b7e323ed4bada2906c8cad9c57ee81b5%7C7c1348e8d92d483795f654b0822fdff9%7C72be82fd-dc62-498c-b03a-62719da376e6&AppEnvironment=datacollector-source&UploadType=eteventstream] refs=[1] status=Processing
 [2020.10.29-22.34.43:559][402]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B08ADAF44-438B-7D96-0FBD-1EBF2660D31F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.3-13942748%2B%2B%2BUE4%2BRelease-4.25&UserID=b7e323ed4bada2906c8cad9c57ee81b5%7C7c1348e8d92d483795f654b0822fdff9%7C72be82fd-dc62-498c-b03a-62719da376e6&AppEnvironment=datacollector-source&UploadType=eteventstream] refs=[1] status=Processing
 [2020.10.29-22.34.43:591][402]LogModuleManager: Shutting down and abandoning module SSL (66)
+[2020.10.29-22.34.43:727][402]LogModuleManager: Shutting down and abandoning module WmfMedia (62)
+[2020.10.29-22.34.43:848][402]LogModuleManager: Shutting down and abandoning module Media (61)
+[2020.10.29-22.34.43:849][402]LogModuleManager: Shutting down and abandoning module MagicLeap (58)
+[2020.10.29-22.34.43:849][402]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (56)
+[2020.10.29-22.34.43:860][402]LogModuleManager: Shutting down and abandoning module NiagaraShader (54)
+[2020.10.29-22.34.43:860][402]LogModuleManager: Shutting down and abandoning module VariantManagerContent (52)
+[2020.10.29-22.34.43:860][402]LogModuleManager: Shutting down and abandoning module DatasmithContent (50)
+[2020.10.29-22.34.43:861][402]LogModuleManager: Shutting down and abandoning module AISupportModule (48)
+[2020.10.29-22.34.43:861][402]LogModuleManager: Shutting down and abandoning module DesktopPlatform (46)
+[2020.10.29-22.34.43:981][402]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2020.10.29-22.34.43:994][402]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2020.10.29-22.34.43:994][402]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2020.10.29-22.34.43:994][402]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.10.29-22.34.44:005][402]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.10.29-22.34.44:050][402]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.10.29-22.34.44:144][402]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.10.29-22.34.44:164][402]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.10.29-22.34.44:164][402]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.10.29-22.34.44:173][402]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.10.29-22.34.44:252][402]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.10.29-22.34.44:789][402]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.10.29-22.34.44:789][402]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.10.29-22.34.44:789][402]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.10.29-22.34.44:901][402]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.10.29-22.34.44:901][402]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.10.29-22.34.44:901][402]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.10.29-22.34.44:913][402]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.10.29-22.34.44:913][402]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.10.29-22.34.44:917][402]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.10.29-22.34.44:926][402]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.10.29-22.34.45:214][402]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.10.29-22.34.45:228][402]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2020.10.29-22.34.45:313][402]LogD3D11RHI: Shutdown
+[2020.10.29-22.34.45:313][402]LogD3D11RHI: CleanupD3DDevice
+[2020.10.29-22.34.46:807][402]LogExit: Exiting.
+[2020.10.29-22.34.46:865][402]Log file closed, 10/29/20 16:34:46
