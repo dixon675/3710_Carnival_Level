@@ -1,2 +1,4 @@
-# 3710_Carnival_Level
-Carnival Level made for New Media 3710
+# NMED 3710 Carnival Level
+
+Quick project of a side scroller level made in Unreal 4. 
+First team project using Git.
